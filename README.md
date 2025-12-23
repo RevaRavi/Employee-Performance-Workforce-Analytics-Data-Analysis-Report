@@ -52,7 +52,7 @@ The dataset contains employee-level information related to personal details, job
 - Handled missing values  
 - Removed duplicate records  
 - Corrected data types  
-- Created derived features such as age and experience groups  
+- Created derived features such as Tenure (Years), Age Group,Employee Full Name,Performance Rating Label etc
 
 ### 3️⃣ Exploratory Data Analysis (EDA)
 - Distribution analysis (Age, Salary)  
