@@ -34,7 +34,8 @@ The dataset contains employee-level information related to personal details, job
 - **Python**
 - **Pandas** – Data manipulation  
 - **NumPy** – Numerical computation  
-- **Matplotlib & Seaborn** – Data visualization  
+- **Matplotlib & Seaborn** – Static data visualization  
+- **Plotly** – Interactive data visualization   
 - **Jupyter Notebook** – Analysis environment  
 - **GitHub** – Version control  
 
